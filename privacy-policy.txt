@@ -1,5 +1,5 @@
 Privacy Policy
-Effective Date: 12.01.2025
+Effective Date: 20.06.2025
 App Name: Terra
 
 Medical Disclaimer
@@ -7,28 +7,29 @@ The information provided in this app is for educational purposes only and is not
 
 1. Information We Collect
 We may collect the following information from users:
-
-Email Address: If you create an account or log in via Google.
-Device Information: To improve app performance and display relevant ads.
-Usage Data: To analyze app usage and enhance user experience.
+  - Email Address: If you create an account or log in via Google.
+  - Device Information: To improve app performance and display relevant ads.
+  - Usage Data: To analyze app usage and enhance user experience.
+  - Camera Data: When you use the plant recognition feature, we access your device's camera to capture images of plants. These images are processed to     identify plants and provide information. We do not store these images on our servers after processing, unless explicitly stated for a specific         feature you opt into (e.g., saving identified plants to a personal collection).
+  - Plant Recognition Data: Information generated from the plant recognition feature, such as identified plant species, and related metadata (e.g.,        date of recognition), may be processed to provide the service and improve its accuracy.
 
 2. How We Use Your Information
 The information collected is used for the following purposes:
-
-To provide personalized content.
-To improve the functionality and performance of the app.
-To show relevant advertisements.
-To communicate important updates or changes to the app.
+  - To provide personalized content, including plant identification results.
+  - To improve the functionality and performance of the app, including the accuracy of the plant recognition feature.
+  - To show relevant advertisements.
+  - To communicate important updates or changes to the app.
+  - To operate and enhance the plant recognition feature using technologies like Firebase and Gemini.
 
 3. Third-Party Services
 We use third-party services to improve our app, including:
-
-Google Analytics and Firebase: For app analytics and performance tracking.
-AdMob (Google Ads): To display advertisements within the app.
-These third-party services may collect and process user data as outlined in their privacy policies.
+  - Google Analytics and Firebase: For app analytics, performance tracking, and to support features like user authentication and data storage (if          applicable for user-saved content). Firebase is also integral to our plant recognition functionality.
+  - AdMob (Google Ads): To display advertisements within the app.
+  - Google Gemini (or similar AI models): To power and enhance the plant recognition and information retrieval features. Data processed through Gemini     is subject to Google's privacy policies.
+These third-party services may collect and process user data as outlined in their respective privacy policies.
 
 4. Data Sharing
-We do not sell, trade, or share your personal data with third parties, except as required to operate the app and comply with legal obligations.
+We do not sell, trade, or share your personal data with third parties, except as required to operate the app, provide the services you request (like plant recognition), and comply with legal obligations.
 
 5. Data Security
 We take appropriate measures to protect your data. However, no method of data transmission or storage is completely secure, and we cannot guarantee absolute security.
@@ -38,14 +39,15 @@ Our app is intended for users aged 18 and older. We do not knowingly collect dat
 
 7. User Rights
 As a user, you have the right to:
-
-Access and update your personal data.
-Request deletion of your account and associated data.
-Opt-out of data collection where applicable.
+  - Access and update your personal data.
+  - Request deletion of your account and associated data.
+  - Opt-out of data collection where applicable.
 
 8. Contact Us
 If you have questions or concerns about this Privacy Policy, please contact us at:
 emerald.dunadan@gmail.com
 
 9. Updates to This Privacy Policy
-We may update this Privacy Policy from time to time. Updates will be reflected on this page with a new "Effective Date."
+We may update this Privacy Policy from time to time to reflect changes in our practices or services. Updates will be reflected on this page with a new "Effective Date." We encourage you to review this policy periodically.
+
+This updated policy specifically addresses the camera usage and the role of Firebase and Gemini in the plant recognition process, providing more transparency to your users.
