@@ -1,5 +1,5 @@
 Privacy Policy
-Effective Date: 20.06.2025
+Effective Date: 21.09.2025
 App Name: Terra
 
 Medical Disclaimer
@@ -12,6 +12,8 @@ We may collect the following information from users:
   - Usage Data: To analyze app usage and enhance user experience.
   - Camera Data: When you use the plant recognition feature, we access your device's camera to capture images of plants. These images are processed to     identify plants and provide information. We do not store these images on our servers after processing, unless explicitly stated for a specific         feature you opt into (e.g., saving identified plants to a personal collection).
   - Plant Recognition Data: Information generated from the plant recognition feature, such as identified plant species, and related metadata (e.g.,        date of recognition), may be processed to provide the service and improve its accuracy.
+  - Location Data: With your permission, we may access your device’s location to check whether certain plants may exist in your area. Your location        coordinates may be processed through an external AI service to provide plant-related results.
+  
 
 2. How We Use Your Information
 The information collected is used for the following purposes:
@@ -20,6 +22,7 @@ The information collected is used for the following purposes:
   - To show relevant advertisements.
   - To communicate important updates or changes to the app.
   - To operate and enhance the plant recognition feature using technologies like Firebase and Gemini.
+  - To provide plant-related insights based on your location.
 
 3. Third-Party Services
 We use third-party services to improve our app, including:
